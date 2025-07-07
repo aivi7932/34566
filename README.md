@@ -40,4 +40,4 @@ Q：我在手机上可以看吗？
 A：所有资源站均支持移动端访问，建议搭配VPN与广告拦截插件使用。
 
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/aivi7932/34566 ）</span>
